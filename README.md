@@ -6,7 +6,7 @@ Este repositório reúne uma série de algoritmos desenvolvidos para o estudo de
 
 ##  Tecnologias e Conceitos
 
-* **Linguagem:** JavaScript (ES6+)
+* **Linguagem:** JavaScript
 * **Estruturas de Controle:** Laços de repetição `while` e condicionais `if/else`.
 * **Tratamento de Dados:** Conversão de tipos (`Number`), tratamento de entradas vazias.
 
